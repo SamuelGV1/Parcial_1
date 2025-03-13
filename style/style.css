@@ -1,0 +1,54 @@
+.imagInicio{
+    padding-left: 20px;
+}
+
+.div1{
+    text-align: center;
+    
+    background-color: gray;
+    width: 100%;
+}
+
+.colorISA{
+    color: blue;
+}
+
+.div_principal{
+    margin:0;
+    padding:0;
+}
+.imgg{
+width: 100%;
+}
+
+.div3{
+    margin-top: -28px;
+    background-color: rgb(91, 191, 191);
+}
+
+.div4{
+    background-color: beige;
+}
+.div2{
+    padding: 0%;
+    margin:0;
+}
+
+.div7{
+    margin-top: -28px;
+    background-color: rgb(202, 185, 163);
+}
+
+.div5{
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+
+.colorDeI{
+    color:red;
+}
+
+.div6{
+    background-color: aqua;
+}
